@@ -1,0 +1,13 @@
+.about-header {
+  background-color: rgb(255, 255, 255);
+  padding: 30px;
+  font-size:x-large;
+  font-weight: bolder;
+  font-family:poppins;
+}
+
+.intro-blurb {
+  font-family: poppins;
+  font-weight: lighter;
+  color: #423ee1ff;
+}

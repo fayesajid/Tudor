@@ -1,0 +1,27 @@
+@font-face {
+  font-family: poppins;
+  src: url(../public/Poppins-Bold.ttf);
+
+}
+
+.poppins {
+  font-family: poppins;
+}
+
+.title {
+  color: #423ee1ff;
+  font-family: poppins;
+}
+
+.welcome {
+  font-family:poppins;
+  font-size: xx-large;
+}
+
+.find-tutor-greeting {
+  font-family: poppins;
+}
+.tudor-blueback-image {
+  background-color: #423ee1ff;
+  align-items: center;
+}
